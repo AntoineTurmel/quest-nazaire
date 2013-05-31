@@ -1,4 +1,4 @@
 quest-nazaire
 =============
 
-A little game using web technoligies.
+A little game using web technologies.
